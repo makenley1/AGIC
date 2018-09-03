@@ -20,7 +20,7 @@
       <link rel="stylesheet" type="text/javascript" href="js/animate.js">
       
 
-      <title>Hello, world!</title>
+      <title>Faite le meilleur choix avec AGIC !!!</title>
     
     </head>
 
