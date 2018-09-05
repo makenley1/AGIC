@@ -96,6 +96,10 @@
 	    flex: 0 0 20%;
 	    max-width: 20%;
 	}
+
+	.row {
+		margin-right: 0;
+	}
 }
 
 @media (min-width: 768px) {
@@ -106,3 +110,7 @@
 	    max-width: 32.333333%;
 	}
 }
+
+
+/*Footer*/
+
