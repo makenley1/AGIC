@@ -36,6 +36,13 @@
 	}
 }
 
+@media ( min-width: 450px ){
+	.nav-flex-icons {
+		flex-direction: column;
+	}
+}
+
+
 /*@media ( min-width: 450px ){
 	.col-lg-4 {
 		position: relative;
