@@ -125,13 +125,11 @@
 		        <div class="col-md-4">
 		          <ul class="list-inline list-unstyled">
                 <li class="list-inline-item "> <i class="fas fa-swimmer"></i> piscine</li>
-                <li class="list-inline-item"> 24000KM</li>
               </ul>
 		        </div>
            <div class="col-md-4">
               <ul class="list-inline list-unstyled">
-                <li class="list-inline-item "> <i class="fa fa-calendar-o pr-1"></i> Year :</li>
-                <li class="list-inline-item"> 2010</li>
+                <li class="list-inline-item "> <i class="fas fa-parking"></i></i>Parking : 3</li>
               </ul>
            </div>
 		           <div class="col-md-4">
