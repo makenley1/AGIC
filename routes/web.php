@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/faq', function () {
+	return view('faq');
+});
+
 Route::get('contact', function () {
     return view('contact');
 });
@@ -26,3 +30,4 @@ Route::get('products', function () {
 Route::get('products/details', function () {
     return view('details');
 });
+

@@ -87,7 +87,7 @@
                         </div>
                     </div>
                 </div>
-             </div>
+            </div>
         </div>
         <div class="col">
             <div class="row">
