@@ -1,9 +1,9 @@
 <div class="Footop-newsletter">
   <div class="container">
     <div class="row text-center">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+      <div class="col-lg-12 col-md-12 col-sm-12 col-12"> 
         <div class="Footop-title">
-         <h5>Abonner-vous</h5>
+         <h5>Abonnez-vous</h5>
         </div>
         <input type="text" id="mc_email1" class="field-input" name="mc_email" placeholder=" Enter Your Email Address...">
         <input class="subscribe-btn bgcolor" id="btn_newsletter_1" type="submit" value="Sign Up">
@@ -16,7 +16,7 @@
 <section id="footer">
   <div class="container">
     <div class="row text-center text-xs-center text-sm-left text-md-left pt-5 ">
-      <div class="col-xs-12 col-sm-4 col-md-4">
+      <div class="col-12 col-sm-4 col-md-4">
         <h5>Quick links</h5>
         <ul class="list-unstyled quick-links">
           <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
@@ -26,7 +26,7 @@
           <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
         </ul>
       </div> 
-      <div class="col-xs-12 col-sm-4 col-md-4">
+      <div class="col-12 col-sm-4 col-md-4">
         <h5>Quick links</h5>
         <ul class="list-unstyled quick-links">
           <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
@@ -36,7 +36,7 @@
           <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
         </ul>
       </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
+      <div class="col-12 col-sm-4 col-md-4">
         <h5>Quick links</h5>
         <ul class="list-unstyled quick-links">
           <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
@@ -49,7 +49,7 @@
     </div> 
   </div>
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
+    <div class="col-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
       <ul class="list-unstyled list-inline social text-center">
         <li class="list-inline-item"><a href="javascript:void();"><i class="fab fa-facebook-f"></i> </a> </li>
         <li class="list-inline-item"><a href="javascript:void();"><i class="fab fa-twitter"></i> </a> </li>
@@ -62,7 +62,7 @@
     <hr>
   </div>  
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+    <div class="col-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
       <p><u><a href="https://www.nationaltransaction.com/">National Transaction Corporation</a></u> is a Registered MSP/ISO of Elavon, Inc. Georgia [a wholly owned subsidiary of U.S. Bancorp, Minneapolis, MN]</p>
       <p class="h6">&copy All right Reversed.<a class="text-green ml-2" href="https://www.sunlimetech.com" target="_blank">Sunlimetech</a> </p>
     </div> <hr>

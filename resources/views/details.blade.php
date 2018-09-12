@@ -14,9 +14,9 @@
 @section('content')
 
 <section class="details mt-4">
-  <div class="container-fluid">
+  <div class="container">
   	<div class="row">
-  		<div class="col-md-6">
+  		<div class="col-md-6 col-12">
   		  <div class="product-heading">
   		    <h2 class="text-dark">Maison a Vendre</h2>
   		    <ul class="list-unstyled list-inline text-dark">
@@ -115,99 +115,16 @@
 		  </div> 
 		</div>
 		<div class="col-md-5 ml-5 mt-5">
-	    <div class="cars-overview  card-body pt-3 bg-primary border mt-2">
-	       <div class="row">
-	          <div class="col-md-12">
-	            <h4>Spécifications détaillées</h4>     
-		        </div>
-		      </div>
-		      <div class="row pt-2">
-		        <div class="col-md-4">
-		          <ul class="list-inline list-unstyled">
-                <li class="list-inline-item "> <i class="fas fa-swimmer"></i> piscine</li>
-              </ul>
-		        </div>
-           <div class="col-md-4">
-              <ul class="list-inline list-unstyled">
-                <li class="list-inline-item "> <i class="fas fa-parking"></i></i>Parking : 3</li>
-              </ul>
-           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-car pr-1"></i> Fuel Type :</li>
-		                   <li class="list-inline-item"> Petrol</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-road pr-1"></i> Transmission :</li>
-		                   <li class="list-inline-item"> automatic</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-calendar-o pr-1"></i> Condition :</li>
-		                   <li class="list-inline-item"> Slightly used</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-car pr-1"></i> Body style :</li>
-		                   <li class="list-inline-item">  SUV</li>
-		               </ul>
-		           </div>
-		           
-		       </div>
-		   </div>
-
-		   <div class="cars-overview  card-body pt-3 bg-primary border mt-2">
-		       <div class="row">
-		           <div class="col-md-12">
-		               <h4>Overview</h4>
-		               
-		           </div>
-		       </div>
-		       <div class="row pt-2">
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-road pr-1"></i> Km's Driven :</li>
-		                   <li class="list-inline-item"> 24000KM</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-calendar-o pr-1"></i> Year :</li>
-		                   <li class="list-inline-item"> 2010</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-car pr-1"></i> Fuel Type :</li>
-		                   <li class="list-inline-item"> Petrol</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-road pr-1"></i> Transmission :</li>
-		                   <li class="list-inline-item"> automatic</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-calendar-o pr-1"></i> Condition :</li>
-		                   <li class="list-inline-item"> Slightly used</li>
-		               </ul>
-		           </div>
-		           <div class="col-md-4">
-		               <ul class="list-inline list-unstyled">
-		                   <li class="list-inline-item "> <i class="fa fa-car pr-1"></i> Body style :</li>
-		                   <li class="list-inline-item">  SUV</li>
-		               </ul>
-		           </div>
-		           
-		       </div>
-		   </div>    
-		</div>
+      <h3 class="my-3 text-dark">Project Description</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
+      <h3 class="my-3 text-dark">Project Details</h3>
+      <ul style="float: left;">
+        <li>Lorem Ipsum</li>
+        <li>Dolor Sit Amet</li>
+        <li>Consectetur</li>
+        <li>Adipiscing Elit</li>
+      </ul>
+    </div>
 	</div>
 </div>
 
@@ -247,15 +164,15 @@
 
  <div class="container-fluid">
     <div class="row mt-3">
-        <div class="col-md-12">
+        <div class="col-12">
             <h3> Maison similaire</h3>
             <p>Maison dans la meme zone</p>
         </div>
     </div>
     
           <div class="col">
-            <div class="row">
-                <div class="col-sm-3 my-2 mr-2">
+            <div class="row ml-2 mr-2">
+                <div class="col-12 col-md-3 my-2 mr-2">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-1.jpg" alt="">
                         <div class="box-content">
@@ -283,7 +200,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3 my-2 mr-2">
+                <div class="col-12 col-md-3 my-2 mr-2">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-1.jpg" alt="">
                         <div class="box-content">
@@ -311,7 +228,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3 my-2 mr-2">
+                <div class="col-12 col-md-3 my-2 mr-2">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-1.jpg" alt="">
                         <div class="box-content">
@@ -339,7 +256,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3 my-2 mr-2">
+                <div class="col-12 col-md-3 my-2 mr-2">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-3.jpg" alt="">
                         <div class="box-content">
@@ -369,7 +286,7 @@
                     </div>
                 </div>
                 
-                <div class="col-sm-3 my-2 mr-2">
+                <div class="col-12 col-md-3 my-2 mr-2">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-3.jpg" alt="">
                         <div class="box-content">
