@@ -68,14 +68,13 @@
 		width: 152px;
 		left: 134px;
 	}
-	.courses_background
+	.video_container_outer
 	{
-		top: 304px;
-		height: calc(100% - 304px);
+		height: calc(609px / 1.779);
 	}
-	.blog_title_container
+	.video_content
 	{
-		width: 92%;
+		margin-top: calc(-1 * (609px / 1.875) / 2);
 	}
 	.footer_col
 	{
@@ -121,46 +120,13 @@
 	{
 		margin-left: 33px;
 	}
-	.courses_background
+	.video_container_outer
 	{
-		top: 0;
-		height: 100%;
+		height: calc(690px / 1.779);
 	}
-	.course_col:not(:last-child)
+	.video_content
 	{
-		margin-bottom: 30px;
-	}
-	.timer_container
-	{
-		margin-top: 57px;
-	}
-	.register_timer_container
-	{
-		padding-left: 0px;
-		top: auto;
-		-webkit-transform: none;
-		-moz-transform: none;
-		-ms-transform: none;
-		-o-transform: none;
-		transform: none;
-		margin-top: 50px;
-	}
-	.event_col:not(:last-child)
-	{
-		margin-bottom: 40px;
-	}
-	.blog_right
-	{
-		height: auto;
-		margin-top: 40px;
-	}
-	.blog_image
-	{
-	    position: relative;
-	    top: auto;
-	    left: auto;
-	    width: 100%;
-	    height: 400px;
+		margin-top: calc(-1 * (690px / 1.875) / 2);
 	}
 	.footer_logo
 	{
@@ -254,17 +220,25 @@
 	{
 		height: 60px;
 	}
-	.blog_category_col:not(:nth-last-child(-n+3))
+	.home
 	{
-		margin-bottom: 0px;
+		height: 290px;
 	}
-	.blog_category_col:not(:last-child)
+	.video_container_outer
 	{
-		margin-bottom: 30px;
+		height: calc(510px / 1.779);
 	}
-	.blog_image
+	.video_content
 	{
-		height: 330px;
+		margin-top: calc(-1 * (510px / 1.875) / 2);
+	}
+	.video_overlay div
+	{
+		font-size: 64px;
+	}
+	.video_overlay div:not(:last-child)
+	{
+		margin-bottom: 20px;
 	}
 }
 
@@ -284,6 +258,10 @@
 	.logo_text
 	{
 		font-size: 20px;
+	}
+	.home
+	{
+		height: 270px;
 	}
 	.menu
 	{
@@ -314,49 +292,6 @@
 	{
 		margin-top: 0;
 	}
-	.home
-	{
-		height: 330px;
-	}
-	.home_content
-	{
-		top: 60%;
-		-webkit-transform: translateY(-50%);
-		-moz-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		-o-transform: translateY(-50%);
-		transform: translateY(-50%);
-	}
-	.home_title
-	{
-		font-size: 24px;
-	}
-	.home_button
-	{
-		width: 185px;
-		height: 36px;
-		margin-top: 28px;
-	}
-	.home_button a
-	{
-		line-height: 36px;
-		font-size: 10px;
-		font-size: 10px;
-	}
-	.course_body,
-	.course_footer
-	{
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-	.course_title a
-	{
-		font-size: 16px;
-	}
-	.course_info ul li a
-	{
-		font-size: 13px;
-	}
 	.instructor_image_container
 	{
 		width: 120px;
@@ -370,65 +305,23 @@
 		width: 120px;
 		height: 120px;
 	}
-	.register_form_container
+	.video_overlay
 	{
-		padding-left: 15px;
-		padding-right: 15px;
+		padding-left: 30px;
 	}
-	.register_timer_title,
-	.timer_num
+	.video_overlay div
 	{
-		font-size: 24px;
+		font-size: 44px;
 	}
-	.form_button
+	.video_overlay div:not(:last-child)
 	{
-		height: 36px;
-		font-size: 10px;
+		margin-bottom: 14px;
 	}
-	.timer_list li:not(:last-child)
+	.teacher
 	{
-		margin-right: 12px;
-	}
-	.event_date
-	{
-		width: 60px;
-		height: 60px;
-	}
-	.event_day
-	{
-		font-size: 24px;
-	}
-	.event_month
-	{
-		font-size: 9px;
-		margin-top: 8px;
-	}
-	.event_body
-	{
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-	.event_title a
-	{
-		font-size: 16px;
-	}
-	.blog_title
-	{
-		font-size: 24px;
-	}
-	.blog_title_container
-	{
-		top: calc(100% - 105px);
-		padding-left: 20px;
-		padding-right: 15px;
-	}
-	.blog_right_title a
-	{
-		font-size: 24px;
-	}
-	.blog_right_text p
-	{
-		font-size: 13px;
+		padding-left: 30px;
+		padding-top: 30px;
+		padding-bottom: 30px;
 	}
 }
 

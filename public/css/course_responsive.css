@@ -36,7 +36,10 @@
 
 @media only screen and (max-width: 1440px)
 {
-	
+	.sidebar_top
+	{
+		width: calc(100% + 50px);
+	}
 }
 
 /************
@@ -54,7 +57,10 @@
 
 @media only screen and (max-width: 1280px)
 {
-	
+	.sidebar_top
+	{
+		width: 100%;
+	}
 }
 
 /************
@@ -68,14 +74,13 @@
 		width: 152px;
 		left: 134px;
 	}
-	.courses_background
+	.sidebar_top
 	{
-		top: 304px;
-		height: calc(100% - 304px);
+		width: calc(100% + 80px);
 	}
-	.blog_title_container
+	.sidebar_content
 	{
-		width: 92%;
+		padding-left: 30px;
 	}
 	.footer_col
 	{
@@ -121,46 +126,31 @@
 	{
 		margin-left: 33px;
 	}
-	.courses_background
+	.cur_rating_num
 	{
-		top: 0;
+		font-size: 48px;
+	}
+	.cur_stars i::before
+	{
+		font-size: 14px;
+		margin-right: 9px;
+	}
+	.sidebar
+	{
+		margin-top: 120px;
+	}
+	.sidebar_top
+	{
+		width: 100%;
+	}
+	.sidebar_background
+	{
+		width: 100%;
 		height: 100%;
 	}
-	.course_col:not(:last-child)
+	.sidebar_content
 	{
-		margin-bottom: 30px;
-	}
-	.timer_container
-	{
-		margin-top: 57px;
-	}
-	.register_timer_container
-	{
-		padding-left: 0px;
-		top: auto;
-		-webkit-transform: none;
-		-moz-transform: none;
-		-ms-transform: none;
-		-o-transform: none;
-		transform: none;
-		margin-top: 50px;
-	}
-	.event_col:not(:last-child)
-	{
-		margin-bottom: 40px;
-	}
-	.blog_right
-	{
-		height: auto;
-		margin-top: 40px;
-	}
-	.blog_image
-	{
-	    position: relative;
-	    top: auto;
-	    left: auto;
-	    width: 100%;
-	    height: 400px;
+		padding-right: 30px;
 	}
 	.footer_logo
 	{
@@ -254,17 +244,38 @@
 	{
 		height: 60px;
 	}
-	.blog_category_col:not(:nth-last-child(-n+3))
+	.home
 	{
-		margin-bottom: 0px;
+		height: 129px;
 	}
-	.blog_category_col:not(:last-child)
+	.intro_content
 	{
-		margin-bottom: 30px;
+		width: 100%;
 	}
-	.blog_image
+	.intro_title
 	{
-		height: 330px;
+		font-size: 30px;
+	}
+	.cur_ratings_container
+	{
+		height: auto;
+		padding-bottom: 30px;
+		padding-top: 10px;
+	}
+	.cur_rating
+	{
+		width: 100%;
+		float: none;
+	}
+	.cur_rating_progress
+	{
+		width: 100%;
+		float: none;
+		margin-top: 30px;
+	}
+	.member
+	{
+		width: 33.33333333%;
 	}
 }
 
@@ -284,6 +295,15 @@
 	.logo_text
 	{
 		font-size: 20px;
+	}
+	.home
+	{
+		height: 119px;
+	}
+	.breadcrumbs_list li a,
+	.breadcrumbs_list li
+	{
+		font-size: 10px;
 	}
 	.menu
 	{
@@ -314,121 +334,37 @@
 	{
 		margin-top: 0;
 	}
-	.home
-	{
-		height: 330px;
-	}
-	.home_content
-	{
-		top: 60%;
-		-webkit-transform: translateY(-50%);
-		-moz-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		-o-transform: translateY(-50%);
-		transform: translateY(-50%);
-	}
-	.home_title
+	.intro_title
 	{
 		font-size: 24px;
 	}
-	.home_button
+	.intro_instructors
 	{
-		width: 185px;
-		height: 36px;
-		margin-top: 28px;
+		display: block;
+		margin-left: 0;
+		margin-top: 5px;
+		font-size: 13px;
 	}
-	.home_button a
+	.intro_meta
 	{
-		line-height: 36px;
-		font-size: 10px;
-		font-size: 10px;
+		margin-top: 29px;
 	}
-	.course_body,
-	.course_footer
-	{
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-	.course_title a
-	{
-		font-size: 16px;
-	}
-	.course_info ul li a
+	.panel_text p,
+	.review_text p
 	{
 		font-size: 13px;
 	}
-	.instructor_image_container
+	.tab
 	{
-		width: 120px;
-		height: 120px;
-		border: solid 8px #ffffff;
+		font-size: 12px;
+		font-weight: 600;
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-right: 10px;
 	}
-	.instructor_image
+	.member
 	{
-		top: -8px;
-		left: -8px;
-		width: 120px;
-		height: 120px;
-	}
-	.register_form_container
-	{
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-	.register_timer_title,
-	.timer_num
-	{
-		font-size: 24px;
-	}
-	.form_button
-	{
-		height: 36px;
-		font-size: 10px;
-	}
-	.timer_list li:not(:last-child)
-	{
-		margin-right: 12px;
-	}
-	.event_date
-	{
-		width: 60px;
-		height: 60px;
-	}
-	.event_day
-	{
-		font-size: 24px;
-	}
-	.event_month
-	{
-		font-size: 9px;
-		margin-top: 8px;
-	}
-	.event_body
-	{
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-	.event_title a
-	{
-		font-size: 16px;
-	}
-	.blog_title
-	{
-		font-size: 24px;
-	}
-	.blog_title_container
-	{
-		top: calc(100% - 105px);
-		padding-left: 20px;
-		padding-right: 15px;
-	}
-	.blog_right_title a
-	{
-		font-size: 24px;
-	}
-	.blog_right_text p
-	{
-		font-size: 13px;
+		width: 50%;
 	}
 }
 
