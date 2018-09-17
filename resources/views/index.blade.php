@@ -79,14 +79,14 @@
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
+
 </section>
 </div>
 </div>
-<section class="services-next mt-5">
+<section class="services-next" style="margin-top: -60px;">
   <div class="container">
     <h2>OUR SERVICES</h2>
       <div class="row mt-5">
