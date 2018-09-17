@@ -1,6 +1,10 @@
 @extends('layouts/master')
 
 @section('content')
+ <!-- Home -->
+<div class="home">
+	<div class="home_content">
+		
  <!-- Caroussel -->
 <section class="slide-wrapper">
   <div class="container-fluid">
@@ -80,7 +84,8 @@
     </div>
   </div>
 </section>
-
+</div>
+</div>
 <section class="services-next mt-5">
   <div class="container">
     <h2>OUR SERVICES</h2>
