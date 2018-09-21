@@ -341,13 +341,13 @@ section .section-title{
     font-family: "Font Awesome 5 Free"; content: "\f007";
 }
 #what-we-do .card .block-4:before{
-    font-family: "Font Awesome 5 Free"; content: "\f007";
+    font-family: "Font Awesome 5 Free"; content: "\f274";
 }
 #what-we-do .card .block-5:before{
-    font-family: "Font Awesome 5 Free"; content: "\f007";
+    font-family: "Font Awesome 5 Free"; content: "\f274";
 }
 #what-we-do .card .block-6:before{
-    font-family: "Font Awesome 5 Free"; content: "\f007";
+    font-family: "Font Awesome 5 Free"; content: "\f274";
 }
 #what-we-do .card:hover .card-block:before{
     -webkit-transform: rotate(360deg);

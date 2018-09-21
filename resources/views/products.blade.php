@@ -1,25 +1,35 @@
 @extends('layouts/master')
 
+@section('style')
+<link rel="stylesheet" type="text/css" href="css/courses.css">
+<link rel="stylesheet" type="text/css" href="css/courses_responsive.css">
+@stop
+
 @section('content')
 
-<div class="container-fluid mt-3">
-    <div class="row ml-0">
-        <div class="col  pr-0">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item"><a href="category.html">Category</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Sub-category</li>
-                </ol>
-            </nav>
+<!-- Home -->
+
+    <div class="home_c">
+        <div class="breadcrumbs_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <ul class="breadcrumbs_list d-flex flex-row align-items-center justify-content-start">
+                            <li><a href="index.html">home</a></li>
+                            <li><a href="courses.html">courses</a></li>
+                            <li>english</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-</div>
 
-<div class="container-fluid">
+
+<div class="container-fluid mt-3">
     <div class="row">
         <div class="col-12 col-sm-3">
-            <div class="card bg-light mb-3">
+            <div class="card bg-light my-3">
                 <div class="card-header bg-primary text-white text-uppercase"><i class="fa fa-list"></i> Categories</div>
                     <div class="form-group">
                         <select class="form-control" id="conditionsselect1">
@@ -81,8 +91,6 @@
                                 <p class="btn btn-info">99.00 $</p>
                             </div>
                             <div class="col">
-                                <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                             </div>
                         </div>
                     </div>
@@ -91,7 +99,7 @@
         </div>
         <div class="col">
             <div class="row">
-                <div class="col-md-4 col-sm-6 my-2 mr-2">
+                <div class="col-md-4 col-sm-6 my-2 px-1">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-1.jpg" alt="">
                         <div class="box-content">
@@ -112,14 +120,12 @@
                                     <p class="btn btn-info">99.00 $</p>
                                 </div>
                                 <div class="col">
-                                    <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                    <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 my-2 mr-2">
+                <div class="col-md-4 col-sm-6 my-2 px-1">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-1.jpg" alt="">
                         <div class="box-content">
@@ -140,14 +146,12 @@
                                     <p class="btn btn-info">99.00 $</p>
                                 </div>
                                 <div class="col">
-                                    <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                    <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 my-2 mr-2">
+                <div class="col-md-4 col-sm-6 my-2 px-1">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-3.jpg" alt="">
                         <div class="box-content">
@@ -169,15 +173,13 @@
                                     <p class="btn btn-info">99.00 $</p>
                                 </div>
                                 <div class="col">
-                                    <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                    <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="col-md-4 col-sm-6 my-2 mr-2">
+                <div class="col-md-4 col-sm-6 my-2 px-1">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-3.jpg" alt="">
                         <div class="box-content">
@@ -199,15 +201,13 @@
                                     <p class="btn btn-info">99.00 $</p>
                                 </div>
                                 <div class="col">
-                                    <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                    <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-6 my-2 mr-2">
+                <div class="col-md-4 col-sm-6 my-2 px-1">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-3.jpg" alt="">
                         <div class="box-content">
@@ -229,15 +229,13 @@
                                     <p class="btn btn-info">99.00 $</p>
                                 </div>
                                 <div class="col">
-                                    <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                    <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-6 my-2 mr-2">
+                <div class="col-md-4 col-sm-6 my-2 px-1">
                     <div class="box7">
                         <img src="http://bestjquery.com/tutorial/hover-effect/demo156/images/img-3.jpg" alt="">
                         <div class="box-content">
@@ -259,8 +257,6 @@
                                     <p class="btn btn-info">99.00 $</p>
                                 </div>
                                 <div class="col">
-                                    <span class="view-count"> 5 <i class="far fa-eye"></i> </span>
-                                    <span class="like-count"> 5 <i class="far fa-thumbs-up"></i> </span>
                                 </div>
                             </div>
                         </div>

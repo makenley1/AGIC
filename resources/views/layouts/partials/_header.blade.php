@@ -51,9 +51,8 @@
           <div class="col">
             <div class="header_content d-flex flex-row align-items-center justify-content-start">
               <div class="logo_container mr-auto">
-                <a href="#">
+                <a href="{{ '/' }}">
                   <div class="logo_text"> <img src="{{ asset('images/agic/Agic.gif') }}" alt="AGIC logo" class="img img-fluid"/></div> 
-                 
                 </a>
               </div>
               <nav class="main_nav_contaner">

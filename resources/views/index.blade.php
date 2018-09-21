@@ -65,32 +65,31 @@
 
 <section id="what-we-do" class="py-5">
   <div class="container-fluid">
-    <h2 class="section-title h1">What we do</h2>
     <div class="row mt-3">
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="card mr-2" >
           <div class="card-block block-1">
-            <h3 class="card-title">Special title</h3>
+            <h3 class="card-title">Loction</h3>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="{{ ('products') }}" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+            <a href="{{ ('products') }}" title="Read more" class="read-more" >Savoir plus<i class="fa fa-angle-double-right ml-2"></i></a>
           </div>
         </div>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="card mr-2" >
           <div class="card-block block-2">
-            <h3 class="card-title">Special title</h3>
+            <h3 class="card-title">Vente</h3>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="{{ ('products') }}" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+            <a href="{{ ('products') }}" title="Read more" class="read-more" >Savoir plus<i class="fa fa-angle-double-right ml-2"></i></a>
           </div>
         </div>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="card mr-2" >
           <div class="card-block block-3">
-            <h3 class="card-title">Special title</h3>
+            <h3 class="card-title">Achat</h3>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="{{ ('products') }}" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+            <a href="{{ ('products') }}" title="Read more" class="read-more" >Savoir plus<i class="fa fa-angle-double-right ml-2"></i></a>
           </div>
         </div>
       </div>
