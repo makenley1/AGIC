@@ -22,7 +22,7 @@
 10. Events
 11. Blog
 12. Footer
-
+13. Services
 
 
 ******************************/
@@ -1867,7 +1867,7 @@ section
 
 .footer
 {
-	background: #252525;
+	background: #06305b;
 
 }
 .footer_col
@@ -2153,4 +2153,48 @@ section
 .footer_social ul li a i:hover
 {
 	color: rgba(255,255,255,1);
+}
+
+/*********************************
+13. Services
+*********************************/
+
+.services
+{
+	padding-bottom: 76px;
+	padding-top: 76px;
+}
+.services_row
+{
+	margin-top: 65px;
+}
+.service_item
+{
+	margin-bottom: 41px;
+}
+.service_item h3
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	font-weight: 500;
+	color: #1a1a1a;
+	margin-bottom: 13px;
+}
+.service_item p
+{
+	font-size: 14px;
+	font-weight: 500;
+	color: #a5a5a5;
+	max-width: 100%;
+	margin-bottom: 0px;
+}
+.icon_container
+{
+	height: 41px;
+	width: auto;
+	margin-bottom: 30px;
+}
+.icon_container img
+{
+	height: 100%;
 }
