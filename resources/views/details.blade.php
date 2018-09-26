@@ -2,13 +2,21 @@
 
 @section('style')
 <link rel="stylesheet" type="text/css" href="../css/app.css">
-<link rel="stylesheet" type="text/css" href="../css/style.css">
+<!-- <link rel="stylesheet" type="text/css" href="../css/style.css"> -->
 <link rel="stylesheet" type="text/css" href="../css/details.css">	
 <link rel="stylesheet" type="text/css" href="../css/responsive.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.2/css/swiper.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.2/js/swiper.min.js"></script>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+
+
+<link rel="stylesheet" type="text/css" href="css/bootstrap4/bootstrap.min.css">
+      <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+      <link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+      <link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/animate.css">
+      <link rel="stylesheet" type="text/css" href="../css/main_styles.css">
+      <link rel="stylesheet" type="text/css" href="../css/responsive.css">
 @stop
 
 @section('content')

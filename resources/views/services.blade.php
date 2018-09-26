@@ -15,9 +15,8 @@
                 <div class="row">
                     <div class="col">
                         <ul class="breadcrumbs_list d-flex flex-row align-items-center justify-content-start">
-                            <li><a href="index.html">home</a></li>
-                            <li><a href="courses.html">courses</a></li>
-                            <li>english</li>
+                            <li><a href="index.html">Accueil</a></li>
+                            <li>services</li>
                         </ul>
                     </div>
                 </div>

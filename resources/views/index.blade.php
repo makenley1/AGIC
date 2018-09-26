@@ -35,48 +35,59 @@
           <div class="icon_container d-flex flex-column justify-content-end">
             <img src="images/earth-globe.svg" alt="">
           </div>
+          <a href="{{'services'}}">
           <h3>Démenagement</h3>
-          <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+          <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p></a>
         </div>
 
         <div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
           <div class="icon_container d-flex flex-column justify-content-end">
             <img src="images/earth-globe.svg" alt="">
           </div>
-          <h3>Traiteur</h3>
+          <a href="{{'services'}}">
+            <h3>Traiteur</h3>
           <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+          </a>
         </div>
 
         <div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
           <div class="icon_container d-flex flex-column justify-content-end">
             <img src="images/earth-globe.svg" alt="">
           </div>
-          <h3>Amazing Library</h3>
+          <a href="services">
+            <h3>Amazing Library</h3>
           <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+          </a>
         </div>
 
         <div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
           <div class="icon_container d-flex flex-column justify-content-end">
             <img src="images/earth-globe.svg" alt="">
           </div>
+          <a href="services">
           <h3>Exceptional Professors</h3>
           <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+          </a>
         </div>
 
         <div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
           <div class="icon_container d-flex flex-column justify-content-end">
             <img src="images/earth-globe.svg" alt="">
           </div>
-          <h3>Top Programs</h3>
+          <a href="services">
+            <h3>Top Programs</h3>
           <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+          </a>
         </div>
 
         <div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
           <div class="icon_container d-flex flex-column justify-content-end">
             <img src="images/earth-globe.svg" alt="">
           </div>
+          <a href="services">
           <h3>Graduate Diploma</h3>
           <p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+          </a>
         </div>
 
       </div>
@@ -135,7 +146,7 @@
     </div> -->
 </section>
 
-<section id="what-we-do" class="py-5">
+<!-- <section id="what-we-do" class="py-5">
   <div class="container-fluid">
     <div class="row mt-3">
       <div class="col-xs-12 col-sm-6 col-md-4">
@@ -167,5 +178,5 @@
       </div>
     </div>
   </div>  
-</section>
+</section> -->
 @stop
