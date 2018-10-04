@@ -16,7 +16,7 @@
     <div class="map">
       <div id="google_map" class="google_map">
         <div class="map_container">
-          <div id="map"></div>
+          <div id="map"> <iframe src="https://www.google.com/maps/d/embed?mid=16zc1MLsqfUGU2x0xQtLeys8nUs6dfnel" width="100%" height="400"></iframe></div>
         </div>
       </div>
     </div>
@@ -26,7 +26,6 @@
   <!-- Contact -->
 
   <div class="contact">
-    
     <div class="container">
       <div class="row row-lg-eq-height">
 

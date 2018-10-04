@@ -31,3 +31,11 @@ Route::get('service/details', function () {
     return view('details');
 });
 
+Route::get('proprietes', function () {
+	return view('proprietes');
+});
+
+Route::get('product-detail', function () {
+	return view('product-detail');
+});
+

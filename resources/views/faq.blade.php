@@ -2,36 +2,167 @@
 
 @section('content')
 
-<div class="container mt-3">
-  <h2>Toggleable Tabs</h2>
-  <br>
-  <!-- Nav tabs -->
-  <ul class="nav nav-tabs">
-    <li class="nav-item col-md-4">
-      <a class="nav-link active" data-toggle="tab" href="#home">Home</a>
-    </li>
-    <li class="nav-item col-md-4">
-      <a class="nav-link" data-toggle="tab" href="#menu1">Menu 1</a>
-    </li>
-    <li class="nav-item col-md-4">
-      <a class="nav-link" data-toggle="tab" href="#menu2">Menu 2</a>
-    </li>
-  </ul>
+<div class="home">
+        <div class="breadcrumbs_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <ul class="breadcrumbs_list d-flex flex-row align-items-center justify-content-start">
+                            <li><a href="index.html">Accueil</a></li>
+                            <li>services</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div id="home" class="container tab-pane active"><br>
-      <h3>HOME</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    </div>
-    <div id="menu1" class="container tab-pane fade"><br>
-      <h3>Menu 1</h3>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-    <div id="menu2" class="container tab-pane fade"><br>
-      <h3>Menu 2</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-    </div>
-  </div>
-</div>
+<div class="content-area recent-property" style="background-color: #FCFCFC; padding-bottom: 55px;">
+            <div class="container">    
+
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
+                        <!-- /.feature title -->
+                        <h2>Our terms </h2>
+                        <br>
+                    </div>
+                </div>
+
+                <div class="row row-feat"> 
+                    <div class="col-md-12">
+ 
+                        <div class="col-sm-6 feat-list">
+                            <div class="panel-group">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                         <h4 class="panel-title fqa-title collapsed" data-toggle="collapse" data-target="#fqa11" aria-expanded="false">
+                                            Nostrud exercitation ullamco laboris 1 1
+                                         </h4> 
+                                    </div>
+                                    <div id="fqa11" class="panel-collapse fqa-body collapse" aria-expanded="false" style="height: 0px;">
+                                        <div class="panel-body">
+                                            <ol>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>                                           
+                                            </ol> 
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="panel-group">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                         <h4 class="panel-title fqa-title collapsed" data-toggle="collapse" data-target="#fqa22" aria-expanded="false">
+                                            Nostrud exercitation ullamco laboris 2 2
+                                         </h4> 
+                                    </div>
+                                    <div id="fqa22" class="panel-collapse fqa-body collapse" aria-expanded="false" style="height: 0px;">
+                                        <div class="panel-body">
+                                            <ol>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>                                           
+                                            </ol> 
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="panel-group">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                         <h4 class="panel-title fqa-title" data-toggle="collapse" data-target="#fqa33">
+                                            Nostrud exercitation ullamco laboris 3 3
+                                         </h4> 
+                                    </div>
+                                    <div id="fqa33" class="panel-collapse collapse fqa-body">
+                                        <div class="panel-body">
+                                            <ol>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>                                           
+                                            </ol> 
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 feat-list">
+                            <div class="panel-group">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                         <h4 class="panel-title fqa-title collapsed" data-toggle="collapse" data-target="#fqa1" aria-expanded="false">
+                                            Nostrud exercitation ullamco laboris 1 
+                                         </h4> 
+                                    </div>
+                                    <div id="fqa1" class="panel-collapse fqa-body collapse" aria-expanded="false" style="height: 0px;">
+                                        <div class="panel-body">
+                                            <ol>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>                                           
+                                            </ol> 
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="panel-group">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                         <h4 class="panel-title fqa-title" data-toggle="collapse" data-target="#fqa2">
+                                            Nostrud exercitation ullamco laboris 2 
+                                         </h4> 
+                                    </div>
+                                    <div id="fqa2" class="panel-collapse collapse fqa-body">
+                                        <div class="panel-body">
+                                            <ol>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>                                           
+                                            </ol> 
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="panel-group">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                         <h4 class="panel-title fqa-title collapsed" data-toggle="collapse" data-target="#fqa3" aria-expanded="false">
+                                            Nostrud exercitation ullamco laboris 3
+                                         </h4> 
+                                    </div>
+                                    <div id="fqa3" class="panel-collapse fqa-body collapse" aria-expanded="false" style="height: 0px;">
+                                        <div class="panel-body">
+                                            <ol>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+                                                <li> Lorem ipsum dolor sit amet, consectetur adipisicing</li>                                           
+                                            </ol> 
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                
+            </div>
+        </div>
 @stop

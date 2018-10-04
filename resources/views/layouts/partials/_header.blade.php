@@ -58,9 +58,9 @@
               <nav class="main_nav_contaner">
                 <ul class="main_nav">
                   <li class="active"><a href="{{ '/' }}">Accueil</a></li>
-                  <li><a href="{{ '/' }}">Services</a></li>
+                  <li><a href="{{ '/proprietes' }}">Services</a></li>
                   <li><a href="{{ '/' }}">Apropos</a></li>
-                  <li><a href="{{ '/' }}">Faq</a></li>
+                  <li><a href="{{ '/faq' }}">Faq</a></li>
                   <li><a href="{{ '/contact' }}">Contact</a></li>
                 </ul>
               </nav>

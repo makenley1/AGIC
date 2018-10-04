@@ -83,7 +83,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                        <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         <div class="row">
                             <div class="col">
@@ -112,7 +112,7 @@
                     </div>
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                            <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <div class="row">
                                 <div class="col">
@@ -138,7 +138,7 @@
                     </div>
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                            <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <div class="row">
                                 <div class="col">
@@ -165,7 +165,7 @@
                     
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                            <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <div class="row">
                                 <div class="col">
@@ -193,7 +193,7 @@
                     
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                            <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <div class="row">
                                 <div class="col">
@@ -221,7 +221,7 @@
                     
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                            <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <div class="row">
                                 <div class="col">
@@ -249,7 +249,7 @@
                     
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title"><a href="{{ ('products/details') }}" title="View Product">Maison 4 pièces </a></h4>
+                            <h4 class="card-title"><a href="{{ ('service/details') }}" title="View Product">Maison 4 pièces </a></h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <div class="row">
                                 <div class="col">

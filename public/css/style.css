@@ -384,7 +384,7 @@ section .section-title{
     
 }
 
-input[type="text"] {
+/*input[type="text"] {
     color: #b4b4b4;
     height: 47px;
     padding: 0 0 0 20px;
@@ -395,8 +395,8 @@ input[type="text"] {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     box-shadow: none;
-}
-input[type=text] {
+}*/
+/*input[type=text] {
 webkit-box-sizing: border-box;
     box-shadow: none;
     box-sizing: border-box;
@@ -409,7 +409,7 @@ webkit-box-sizing: border-box;
     border: 1px solid #eceef4;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
-}
+}*/
 .bgcolor {
     background-color: #ff0e24 !important;
 }
@@ -602,7 +602,7 @@ section .section-title {
 }
 
 .tab-content > .active { 
-    background-color: darkcyan;
+    background-color: #fff;
  }
 
 
