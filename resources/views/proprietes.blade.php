@@ -2,7 +2,6 @@
 
 @section('content')
 <body class="animsition">
-
     
     <!-- Product -->
     <div class="bg0 m-t-143 p-b-140">
@@ -253,22 +252,22 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-01.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/Appartement.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Esprit Ruffle Shirt
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
-                                    $16.64
+                                    $249 000.00
                                 </span>
                             </div>
 
@@ -285,18 +284,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-02.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-02.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Herschel supply
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -317,18 +316,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item men">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-03.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-03.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Only Check Trouser
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -349,18 +348,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-04.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-04.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Classic Trench Coat
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -381,18 +380,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-05.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-05.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Front Pocket Jumper
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -413,18 +412,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item watches">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-06.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-06.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Vintage Inspired Classic 
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -445,18 +444,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-07.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-07.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Shirt in Stretch Cotton
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -477,18 +476,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-08.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-08.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Pieces Metallic Printed
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -509,18 +508,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item shoes">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-09.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-09.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Converse All Star Hi Plimsolls
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -541,18 +540,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-10.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-10.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Femme T-Shirt In Stripe
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -573,18 +572,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item men">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-11.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-11.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Herschel supply 
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -605,18 +604,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item men">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-12.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-12.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Herschel supply
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -637,18 +636,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-13.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-13.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    T-Shirt with Sleeve
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -669,18 +668,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-14.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-14.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Pretty Little Thing
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -701,18 +700,18 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item watches">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-15.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-15.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Mini Silver Mesh Watch
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -728,23 +727,23 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> 
 
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
-                        <div class="block2-pic hov-img0">
-                            <img src="images/product-16.jpg" alt="IMG-PRODUCT">
+                        <div class="block2-pic hov-img0" style="height:250px;">
+                            <img src="images/product-16.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Quick View
+                                Aperçu
                             </a>
                         </div>
 
                         <div class="block2-txt flex-w flex-t p-t-14">
                             <div class="block2-txt-child1 flex-col-l ">
                                 <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Square Neck Back
+                                    Appartement <b> 3 pieces , 62.76 m2 </b>
                                 </a>
 
                                 <span class="stext-105 cl3">
@@ -800,7 +799,7 @@
                                 <div class="slick3 gallery-lb">
                                     <div class="item-slick3" data-thumb="images/very-pretty-house-urbanity_123880.jpg">
                                         <div class="wrap-pic-w pos-relative">
-                                            <img src="images/product-detail-01.jpg" alt="IMG-PRODUCT">
+                                            <img src="images/product-detail-01.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                                             <a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-01.jpg">
                                                 <i class="fa fa-expand"></i>
@@ -810,7 +809,7 @@
 
                                     <div class="item-slick3" data-thumb="images/product-detail-02.jpg">
                                         <div class="wrap-pic-w pos-relative">
-                                            <img src="images/product-detail-02.jpg" alt="IMG-PRODUCT">
+                                            <img src="images/product-detail-02.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                                             <a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-02.jpg">
                                                 <i class="fa fa-expand"></i>
@@ -820,7 +819,7 @@
 
                                     <div class="item-slick3" data-thumb="images/product-detail-03.jpg">
                                         <div class="wrap-pic-w pos-relative">
-                                            <img src="images/product-detail-03.jpg" alt="IMG-PRODUCT">
+                                            <img src="images/product-detail-03.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                                             <a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-03.jpg">
                                                 <i class="fa fa-expand"></i>
