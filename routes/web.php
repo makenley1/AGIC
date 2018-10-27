@@ -39,3 +39,7 @@ Route::get('product-detail', function () {
 	return view('product-detail');
 });
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
