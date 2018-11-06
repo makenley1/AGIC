@@ -317,7 +317,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-03.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/very-pretty-house-urbanity_123880.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -349,7 +349,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-04.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/product09.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -381,7 +381,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-05.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/maison.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -413,7 +413,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-06.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/product09.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -445,7 +445,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-07.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/Appartement.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -477,7 +477,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-08.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/maison.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -505,139 +505,11 @@
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item shoes">
-                    <!-- Block2 -->
-                    <div class="block2">
-                        <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-09.jpg" alt="IMG-PRODUCT" style="height:250px;" >
-
-                            <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Aperçu
-                            </a>
-                        </div>
-
-                        <div class="block2-txt flex-w flex-t p-t-14">
-                            <div class="block2-txt-child1 flex-col-l ">
-                                <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Appartement <b> 3 pieces , 62.76 m2 </b>
-                                </a>
-
-                                <span class="stext-105 cl3">
-                                    $75.00
-                                </span>
-                            </div>
-
-                            <div class="block2-txt-child2 flex-r p-t-3">
-                                <a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-                                    <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-                                    <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-10.jpg" alt="IMG-PRODUCT" style="height:250px;" >
-
-                            <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Aperçu
-                            </a>
-                        </div>
-
-                        <div class="block2-txt flex-w flex-t p-t-14">
-                            <div class="block2-txt-child1 flex-col-l ">
-                                <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Appartement <b> 3 pieces , 62.76 m2 </b>
-                                </a>
-
-                                <span class="stext-105 cl3">
-                                    $25.85
-                                </span>
-                            </div>
-
-                            <div class="block2-txt-child2 flex-r p-t-3">
-                                <a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-                                    <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-                                    <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item men">
-                    <!-- Block2 -->
-                    <div class="block2">
-                        <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-11.jpg" alt="IMG-PRODUCT" style="height:250px;" >
-
-                            <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Aperçu
-                            </a>
-                        </div>
-
-                        <div class="block2-txt flex-w flex-t p-t-14">
-                            <div class="block2-txt-child1 flex-col-l ">
-                                <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Appartement <b> 3 pieces , 62.76 m2 </b>
-                                </a>
-
-                                <span class="stext-105 cl3">
-                                    $63.16
-                                </span>
-                            </div>
-
-                            <div class="block2-txt-child2 flex-r p-t-3">
-                                <a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-                                    <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-                                    <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item men">
-                    <!-- Block2 -->
-                    <div class="block2">
-                        <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-12.jpg" alt="IMG-PRODUCT" style="height:250px;" >
-
-                            <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-                                Aperçu
-                            </a>
-                        </div>
-
-                        <div class="block2-txt flex-w flex-t p-t-14">
-                            <div class="block2-txt-child1 flex-col-l ">
-                                <a href="{{ '/product-detail'}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-                                    Appartement <b> 3 pieces , 62.76 m2 </b>
-                                </a>
-
-                                <span class="stext-105 cl3">
-                                    $63.15
-                                </span>
-                            </div>
-
-                            <div class="block2-txt-child2 flex-r p-t-3">
-                                <a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-                                    <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-                                    <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
-                    <!-- Block2 -->
-                    <div class="block2">
-                        <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-13.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/very-pretty-house-urbanity_123880.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -669,7 +541,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-14.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/Appartement1.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -701,7 +573,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-15.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/Appartement.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu
@@ -733,7 +605,7 @@
                     <!-- Block2 -->
                     <div class="block2">
                         <div class="block2-pic hov-img0" style="height:250px;">
-                            <img src="images/product-16.jpg" alt="IMG-PRODUCT" style="height:250px;" >
+                            <img src="images/Appartement.jpg" alt="IMG-PRODUCT" style="height:250px;" >
 
                             <a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
                                 Aperçu

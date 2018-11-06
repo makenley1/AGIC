@@ -77,8 +77,6 @@
       <div class="super_container">
         @include('layouts/partials/_header')  
 
-        @include('layouts/menus/_nav')
-
         @yield('content')
 
         @include('layouts/partials/_footer')  

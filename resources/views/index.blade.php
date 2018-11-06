@@ -93,90 +93,48 @@
       </div>
     </div>
   </div>
-
-
-
-
-
-
-
-  <!-- <div class="container">
-    <h2>NOS SERVICES</h2>
-      <div class="row mt-5">
-        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                <div class="our-services-wrapper mb-60">
-                  <div class="services-inner">
-                    <div class="our-services-img">
-                    <img src="https://www.orioninfosolutions.com/assets/img/icon/Agricultural-activities.png" width="68px" alt="">
-                    </div>
-                    <div class="our-services-text">
-                      <h4>Location</h4>
-                      <p>Trouver votre maison preferez en surfant sur notre site</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                <div class="our-services-wrapper mb-60">
-                  <div class="services-inner">
-                    <div class="our-services-img">
-                    <img src="https://www.orioninfosolutions.com/assets/img/icon/Agricultural-activities.png" width="68px" alt="">
-                    </div>
-                    <div class="our-services-text">
-                      <h4>Demenagement</h4>
-                      <p>Vous permettant de demanager sans trop vous fatiguer</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                <div class="our-services-wrapper mb-60">
-                  <div class="services-inner">
-                    <div class="our-services-img">
-                    <img src="https://www.orioninfosolutions.com/assets/img/icon/Agricultural-activities.png" width="68px" alt="">
-                    </div>
-                    <div class="our-services-text">
-                      <h4>Traiteur</h4>
-                      <p>Maintenir votre maison propre et saine en toute integralite</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-      </div>
-    </div> -->
 </section>
 
-<!-- <section id="what-we-do" class="py-5">
-  <div class="container-fluid">
-    <div class="row mt-3">
-      <div class="col-xs-12 col-sm-6 col-md-4">
-        <div class="card mr-2" >
-          <div class="card-block block-1">
-            <h3 class="card-title">Loction</h3>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="{{ ('products') }}" title="Read more" class="read-more" >Savoir plus<i class="fa fa-angle-double-right ml-2"></i></a>
+<div class="register">
+    <div class="container">
+      <div class="row">
+        
+        <!-- Register Form -->
+
+        <div class="col-lg-6">
+          <div class="register_form_container">
+            <div class="register_form_title">Contactez-nous</div>
+            <form action="#" id="register_form" class="register_form">
+              <div class="row register_row">
+                <div class="col-lg-6 register_col">
+                  <input class="form_input" placeholder="Votre Nom" required="required" type="text">
+                </div>
+                <div class="col-lg-6 register_col">
+                  <input class="form_input" placeholder="Votre Mail" required="required" type="email">
+                </div>
+                <div class="col-lg-12">
+                  <textarea class="form_input form_text" placeholder="Message..." required="required"></textarea>
+                </div>
+                <div class="col">
+                  <button type="submit" class="form_button trans_200">Envoyer</button>
+                </div>
+              </div>
+            </form>
           </div>
         </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-4">
-        <div class="card mr-2" >
-          <div class="card-block block-2">
-            <h3 class="card-title">Vente</h3>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="{{ ('products') }}" title="Read more" class="read-more" >Savoir plus<i class="fa fa-angle-double-right ml-2"></i></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-4">
-        <div class="card mr-2" >
-          <div class="card-block block-3">
-            <h3 class="card-title">Achat</h3>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="{{ ('products') }}" title="Read more" class="read-more" >Savoir plus<i class="fa fa-angle-double-right ml-2"></i></a>
+
+        <!-- Register Timer -->
+
+        <div class="col-lg-6">
+          <div class="register_timer_container">
+            <div class="register_timer_title">AGIC</div>
+            <div class="register_timer_text">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor.</p>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>  
-</section> -->
+  </div>
+
 @stop
